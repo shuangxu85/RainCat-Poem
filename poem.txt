@@ -3,4 +3,5 @@ The RainCat
 Purple 
 Blue
 Green 
+Yellow
 These are the colors of the RainCat.
